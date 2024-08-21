@@ -74,10 +74,22 @@
 
 ## Projects
 
+### 쿠버네티스를 활용한 자동 이중화 배포 서비스
+  '인프라나 이중화 구성을 모르는 사용자도 무중단 서비스를 제공할 수 있게 도와주는 SaaS 플랫폼' <br>
+  - 담당 : Kubernetes, CICD(파이프라인), 서버환경구축 <br>
+  - 인원 / 기간 : 5인 / 2023.04 ~ 2023.08 <br>
+  - Repository : https://github.com/genmu5/2023_Cloud_Service_Project <br>
 
+### 생성형 AI를 활용한 자산운용보고서 자동생성
+  '기업에게는 자산운용보고서의 작성을 통해 시간 및 비용적 효율을 높여주며 고객에게는 펀드투자 결정의 도움을 주는 서비스'
+  - 담당 : BackEnd 개발, 생성형 AI fine-tuning <br>
+  - 인원 / 기간 : 5인 / 2024.04 ~ 2024.08 <br>
+  - Repository : https://github.com/genmu5/2024_ForAsset_project <br>
 
-
- 
+### 재난 상황시 커뮤니티 마비 방지를 위한 대용량 트래픽 처리 시스템 
+  '서비스 중 대용량의 트래픽이 발생하였을 때 붕괴하지 않는 트래픽 내성을 가진 서비스 설계' <br>
+  - 담당 : kubernetes, BackEnd개발, Kafka <br>
+  - Repository : https://github.com/genmu5/2024_kpaas_high-traffic-handling <br>
 
 ## Problem Solving
 ### BOJ Rank
