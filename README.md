@@ -89,7 +89,14 @@
 ### 재난 상황시 커뮤니티 마비 방지를 위한 대용량 트래픽 처리 시스템 
   '서비스 중 대용량의 트래픽이 발생하였을 때 붕괴하지 않는 트래픽 내성을 가진 서비스 설계' <br>
   - 담당 : kubernetes, BackEnd개발, Kafka <br>
+  - 인원 / 기간 : 4인 / 2024.09 ~  <br>
   - Repository : https://github.com/genmu5/2024_kpaas_high-traffic-handling <br>
+
+### 배프트립
+  '사회적약자를 위한 무장애 관광지도 어플리케이션' <br>
+  - 담당 : BackEnd개발 <br>
+  - 인원 / 기간 : 6인 / 2024.09 ~  <br>
+  - Repository : https://github.com/genmu5/Back <br>
 
 ## Problem Solving
 ### BOJ Rank
