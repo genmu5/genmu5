@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Gunmu Lee
+# 👋 Hello, I'm Geonmu Lee
 
 ## About Me
 ### 🔥저는 개발부터 유지보수까지 전부 도맡아 할 수 있는 devops engineer가 되는것이 목표입니다.🔥
